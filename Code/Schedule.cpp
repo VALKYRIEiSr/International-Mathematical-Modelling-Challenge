@@ -23,7 +23,7 @@ struct Matchup
     int getSaturation() const
     {
         if (week != 0)
-            return INT_MAX; // Already scheduled matches get highest priority
+            return INT_MAX;
         return team1->scheduledWeeks.size() + team2->scheduledWeeks.size();
     }
 
