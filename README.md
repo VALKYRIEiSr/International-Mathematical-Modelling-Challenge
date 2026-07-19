@@ -1,1 +1,1 @@
-# International-Mathematical_Modelling-Challenge
+# International-Mathematical-Modelling-Challenge
